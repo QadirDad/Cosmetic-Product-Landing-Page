@@ -172,7 +172,7 @@
     .navlist{
         position: absolute;
         flex-direction: column;
-        right: -70%;
+        right: -100%;
         top: 0;
         bottom: 0;
         background-color: #B7B78A;
@@ -198,7 +198,7 @@
         font-size: 45px;
     }
     .content p{
-        font-size: 18px;
+        font-size: 17px;
     }
     .content{
         padding: 40px;
